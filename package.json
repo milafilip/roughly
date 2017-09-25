@@ -8,6 +8,7 @@
   },
   "keywords": [],
   "author": "John Rees <john@bitsushi.com>",
+  "homepage": "https://github.com/johnrees/roughly",
   "license": "MIT",
   "devDependencies": {
     "jest": "^21.1.0"
