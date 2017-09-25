@@ -1,0 +1,16 @@
+{
+  "name": "roughly",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "John Rees <john@bitsushi.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  }
+}
