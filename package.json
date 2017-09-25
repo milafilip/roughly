@@ -1,14 +1,16 @@
 {
   "name": "roughly",
-  "version": "0.0.2",
-  "description": "",
+  "version": "0.0.3",
+  "description": "Approximate/Fuzzy variable stuff",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": ["fuzzy", "approximate"],
   "author": "John Rees <john@bitsushi.com>",
   "homepage": "https://github.com/johnrees/roughly",
+  "repository" : "johnrees/roughly",
+  "bugs": "https://github.com/johnrees/roughly/issues",
   "license": "MIT",
   "devDependencies": {
     "jest": "^21.1.0"
