@@ -1,5 +1,7 @@
 # Roughly.js
 
+[![Build Status](https://travis-ci.org/johnrees/roughly.svg?branch=master)](https://travis-ci.org/johnrees/roughly)
+
 Approximate/Fuzzy variable stuff
 
 ## API Concept
