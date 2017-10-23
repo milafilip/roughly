@@ -6,10 +6,13 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["fuzzy", "approximate"],
+  "keywords": [
+    "fuzzy",
+    "approximate"
+  ],
   "author": "John Rees <john@bitsushi.com>",
   "homepage": "https://github.com/johnrees/roughly",
-  "repository" : "johnrees/roughly",
+  "repository": "johnrees/roughly",
   "bugs": "https://github.com/johnrees/roughly/issues",
   "license": "MIT",
   "devDependencies": {
