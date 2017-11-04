@@ -16,6 +16,6 @@
   "bugs": "https://github.com/johnrees/roughly/issues",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^21.1.0"
+    "jest": "^21.2.1"
   }
 }
