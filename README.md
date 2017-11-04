@@ -1,5 +1,7 @@
 # Roughly.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/johnrees/roughly.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/johnrees/roughly.svg?branch=master)](https://travis-ci.org/johnrees/roughly)
 
 Approximate/Fuzzy variable stuff
